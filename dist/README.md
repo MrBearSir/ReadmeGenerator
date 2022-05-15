@@ -1,6 +1,7 @@
-# README GENERATOR
+
+# NewREpo
 ## Description
-app to generate README file
+Creating a testing repo
 ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
@@ -10,9 +11,9 @@ app to generate README file
 ## Installation
 To Install dependencies, run the following: 
  
-      Run "npm i" then "node index" in your terminal
+      run "npm i" then run "node index" in your terminal
 ## Usage
-Used to generate readme for different projects
+Using to get graded
 ## License
 This repository is licensed under the undefined license.
 ## Contribution
@@ -20,7 +21,7 @@ This repository is licensed under the undefined license.
 ## Tests
 To run test, run the following:
  
-      none
+      there is no need for it
 ## Questions
-- Check out my Github repos [MrBearSir](https://github.com/MrBearSir)
-- Any questions regarding this repository please contact me at [dobrunja90@yahoo.ca](mailto:dobrunja90@yahoo.ca).
+- Check out my Github repos [someSecretName](https://github.com/someSecretName)
+- Any questions regarding this repository please contact me at [SomewhereInInternet](mailto:SomewhereInInternet).
